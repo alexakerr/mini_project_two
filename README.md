@@ -12,4 +12,4 @@ When you want to search for a contact, you will enter 4 and enter their valid 10
 display all of their information.
 When you enter 5, all of your contacts will be displayed.
 When you enter 6, this exports your contacts from this app to a seperate text file
-And of course once you enter 7, this will allow you to quit 
+And of course once you enter 7, this will allow you to quit
